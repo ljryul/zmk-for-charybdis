@@ -56,9 +56,9 @@
 &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6        &kp F7    &kp F8     &kp F9     &kp F10    &kp F11    &kp F12
 &trans  &none   &none   &none   &none   &trans        &none     &none      &kp UP     &none      &kp MINUS  &kp EQUAL
 &trans  &none   &none   &none   &none   &trans        &none     &kp LEFT   &kp DOWN   &kp RIGHT  &trans     &trans
-&trans  &trans  &trans  &trans  &trans  &none         &mkp MB5  &mkp LCLK  &mkp MCLK  &mkp RCLK  &none      &mo 3
+&trans  &trans  &trans  &trans  &trans  &none         &mkp MB5  &mkp LCLK  &mkp MCLK  &mkp RCLK  &none      &none
                         &trans  &trans  &To0_macro    &none     &mkp MB4
-                                &trans  &trans        &trans
+                                &trans  &trans        &mo 3
             >;
         };
 
